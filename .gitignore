@@ -276,3 +276,5 @@ buildNumber.properties
 # Crashlytics plugin (for Android Studio and IntelliJ)
 
 # Editor-based Rest Client
+/.idea/
+/java-lambdas.iml
